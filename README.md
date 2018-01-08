@@ -1,5 +1,9 @@
 # Ng5AngularCssExperiment
 
+A playground exercise in the...
+    - CSS3 Grid Layout
+    - Angular 5 Browser Animations Module (CSS Animations), in particular... "trigger, style, transition, animate, keyframes, query, stagger"
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
 
 ## Development server
@@ -12,7 +16,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
 ## Running unit tests
 
