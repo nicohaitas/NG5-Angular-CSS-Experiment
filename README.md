@@ -1,4 +1,4 @@
-# Ng5AngularCssExperiment
+# Angular 5 CSS Experiment
 
 A playground exercise in the...
 * CSS3 Grid Layout
