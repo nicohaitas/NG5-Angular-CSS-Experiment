@@ -1,8 +1,8 @@
 # Ng5AngularCssExperiment
 
 A playground exercise in the...
-    - CSS3 Grid Layout
-    - Angular 5 Browser Animations Module (CSS Animations), in particular... "trigger, style, transition, animate, keyframes, query, stagger"
+* CSS3 Grid Layout
+* Angular 5 Browser Animations Module (CSS Animations), in particular... "trigger, style, transition, animate, keyframes, query, stagger"
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
 
